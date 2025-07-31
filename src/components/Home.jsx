@@ -11,8 +11,8 @@ const Home = () => {
         "Welcome to My Profile",
         "My name is Anuj Kumar Sony",
         "I'm Front-End developer",
-        "I'm Figma designer",
-        "I'm YouTuber",
+        "I'm React developer",
+        "I'm fresher",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -28,10 +28,7 @@ const Home = () => {
   return (
     <>
       <div className="container home" id="home">
-        <div className="left"
-        data-aos = "fade-up-right"
-        data-aos-duration = "1000">
-
+        <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
           <h1 ref={typedRef}></h1>
 
           <a
@@ -43,9 +40,7 @@ const Home = () => {
           </a>
         </div>
         <div className="right">
-          <div className="img"
-          data-aos = "fade-up-left"
-          data-aos-duration = "1000">
+          <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
         </div>

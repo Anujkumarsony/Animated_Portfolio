@@ -1,6 +1,30 @@
 [
   {
     "key": 1,
+    "title": "Food Recipe App",
+    "imageSrc": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141351.jpg", 
+    "description": "Search and view recipes using an external API. Built with React.",
+    "demo": "http://food-recipe-ten-mu.vercel.app",
+    "source": "https://github.com/Anujkumarsony/food-recipe-"
+  },
+  {
+    "key": 2,
+    "title": "Swapify - Digital Barter System",
+    "imageSrc": "https://img.freepik.com/free-vector/e-commerce-abstract-concept-illustration_335657-3032.jpg",
+    "description": "A MERN-based platform for product swapping, promoting sustainability.",
+    "demo": "https://github.com/AKS-SU-99/Swapify",
+    "source": "https://github.com/AKS-SU-99/Swapify"
+  },
+  {
+    "key": 3,
+    "title": "MERN Chat App",
+    "imageSrc": "https://img.freepik.com/free-vector/chat-concept-illustration_114360-2299.jpg",
+    "description": "A real-time chat application with socket.io and MongoDB backend.",
+    "demo": "http://mern-chatapp-cb7h.onrender.com",
+    "source": "https://github.com/Anujkumarsony/Mern-ChatApp"
+  },
+  {
+    "key": 4,
     "title": "Login page with water drop",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/11/18/11/35/attack-6806140_1280.png",
     "description": "This is a project made with HTML and CSS.",
@@ -8,15 +32,15 @@
     "source": "https://github.com/Anujkumarsony/Login-page-with-water-drop"
   },
   {
-    "key": 2,
+    "key": 5,
     "title": "React Animated Portfolio",
     "imageSrc": "https://d3vpszern3jgjo.cloudfront.net/wp-content/uploads/2021/02/Best-free-portfolio-webiste-3.jpg",
-    "description": "This is a project made with complete React .",
+    "description": "This is a project made with complete React.",
     "demo": "https://www.example.com",
     "source": "https://github.com/Anujkumarsony"
   },
   {
-    "key": 3,
+    "key": 6,
     "title": "Rock paper scissors game",
     "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*hPhzeFD3htF7ly1AMmAVbw.png",
     "description": "This is a project made with HTML CSS and JavaScript.",
